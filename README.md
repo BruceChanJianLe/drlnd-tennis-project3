@@ -22,3 +22,10 @@ The state space is 8 which are variables corresponding to the position and veloc
 **Action Space**  
 The action space is 2 continuous actions, corresponding to movement toward (or away from) the net, and jumping.
 
+## Getting Started
+
+Please make sure `python3.6` is installed in your conda environment. And run the install script.
+
+```bash
+source ./install.sh
+```
