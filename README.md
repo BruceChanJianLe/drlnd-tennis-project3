@@ -30,6 +30,10 @@ Please make sure `python3.6` is installed in your conda environment. And run the
 source ./install.sh
 ```
 
+## Running
+
+Please run `Tennis.ipynb` jupyter notebook. You will need to be able to connect to the jupyter notebook server before you can run it.
+
 ## Local Setup
 
 Download unity program for tennis here or use the one provided in the repository.
