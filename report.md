@@ -65,3 +65,7 @@ Solved in 2428 steps!
 
 The number of episodes needed to solve the environment is 407 episodes.  
 
+### The Weights
+
+The weights are saved in my_weights.pth.
+
