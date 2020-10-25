@@ -17,7 +17,7 @@ The task is episodic, and in order to solve the environment, your agents must ge
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 **State Space**  
-The state space is 8 which are variables corresponding to the position and velocity of the ball and racket.
+The state space is 24 which are variables corresponding to the position and velocity of the ball and racket.
 
 **Action Space**  
 The action space is 2 continuous actions, corresponding to movement toward (or away from) the net, and jumping.
