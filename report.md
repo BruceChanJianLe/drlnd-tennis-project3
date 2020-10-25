@@ -69,3 +69,6 @@ The number of episodes needed to solve the environment is 407 episodes.
 
 The weights are saved in my_weights.pth.
 
+## Future Works
+
+- Implement a common critic
